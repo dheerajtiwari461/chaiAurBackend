@@ -1,0 +1,58 @@
+{
+    "data": {
+      "cell": "(06) 55822509",
+      "dob": {
+        "age": 46,
+        "date": "1977-02-08T09:03:59.520Z"
+      },
+      "email": "liron.roukema@example.com",
+      "gender": "male",
+      "id": 13,
+      "location": {
+        "city": "Velp",
+        "coordinates": {
+          "latitude": "-65.8793",
+          "longitude": "-124.5931"
+        },
+        "country": "Netherlands",
+        "postcode": "1204 FM",
+        "state": "Noord-Holland",
+        "street": {
+          "name": "Geessinkbrink",
+          "number": 2643
+        },
+        "timezone": {
+          "description": "Kaliningrad, South Africa",
+          "offset": "+2:00"
+        }
+      },
+      "login": {
+        "md5": "25d7d3c90507e1f0efe35cbdf1ab9aa9",
+        "password": "kenwood",
+        "salt": "oDN21BPS",
+        "sha1": "6f2113126a3f6b42fd3eaa02ec02dc09e11b867c",
+        "sha256": "ed7cb9b0cdc995e1b25ae1c1e631c3f4fd9b02fff34e7d80c589019dcee4a1f9",
+        "username": "bigleopard480",
+        "uuid": "28b8ae0f-7daa-4ef7-a912-6999416b8e65"
+      },
+      "name": {
+        "first": "Liron",
+        "last": "Roukema",
+        "title": "Mr"
+      },
+      "nat": "NL",
+      "phone": "(040) 4848820",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/72.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/72.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/72.jpg"
+      },
+      "registered": {
+        "age": 8,
+        "date": "2014-08-12T08:58:31.276Z"
+      }
+    },
+    "message": "User fetched successfully",
+    "statusCode": 200,
+    "success": true
+  }
